@@ -35,7 +35,7 @@ async def raid(e):
 
         try:
             if uid in ALTRON:
-                await e.reply("ɴᴏ, ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴀʟᴛʀᴏɴ'ꜱ ᴏᴡɴᴇʀ.")
+                await e.reply("ɴᴏ, ᴛʜɪꜱ ɢᴜʏ ɪꜱ ʀᴀᴅʜᴀ'ꜱ ᴏᴡɴᴇʀ.")
             elif uid == OWNER_ID:
                 await e.reply("ɴᴏ, ᴛʜɪꜱ ɢᴜʏ ɪꜱ ᴏᴡɴᴇʀ ᴏꜰ ᴛʜᴇꜱᴇ ʙᴏᴛꜱ.")
             elif uid in SUDO_USERS:
