@@ -5,7 +5,7 @@
 <p align="center"><a href="https://t.me/GhostRadha"><img src="https://te.legra.ph/file/2ccae3cb7e3415e598100.jpg" width="400"></a></p>
 
 
-> ⭐️ Thanks to everyone for using this op XBOTS. That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using this op BOTXSPAM. That is the greatest pleasure we have !
 
 
 # ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
@@ -15,7 +15,7 @@
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Radhak8/BOTSPAM)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Radhak8/BOTXSPAM)
 
 </details>
 
