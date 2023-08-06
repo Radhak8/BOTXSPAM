@@ -199,4 +199,5 @@ async def help_extra(event):
             buttons=[[Button.inline("< Back", data="help_back"),],],
             )
     else:
-        await event.answer("Make Your Own Radha Bots !! @GhostRadha", cache_time=0, alert=True)
+        await event.answer("Make Your Own 
+Spam Bots !! @GhostRadha", cache_time=0, alert=True)
