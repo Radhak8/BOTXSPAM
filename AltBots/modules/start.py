@@ -9,7 +9,7 @@ START_BUTTON = [
     ],
     [
         Button.url("• ᴄʜᴀɴɴᴇʟ •", "https://t.me/RadhaX2Update"),
-        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/RadhaX2Support")
+        Button.url("• sᴜᴘᴘᴏʀᴛ •", "https://t.me/RadhaSupport")
     ],
     [
         Button.url("• ʀᴇᴘᴏ •", "https://github.com/Radhak8/BOTXSPAM")
